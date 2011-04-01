@@ -1,0 +1,10 @@
+{
+    "name": "Pair programming",
+    "sections": [
+        {"section":"intro"},
+        {"section":"about_me"},
+        {"section":"programming"},
+        {"section":"pair_programming"},
+        {"section":"outro"}
+    ]
+}
